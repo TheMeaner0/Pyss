@@ -1,13 +1,20 @@
-# Pyss
-This is a Python project I'm working on to learn programming. Pyss is a command-line password manager designed for securely storing and retrieving user credentials. I am also learning tkinter to add a gui to this project.
+# Pyss - Python Password Manager
 
-# Dependencies
-- Cryptography
-- Pyperclip
+**Pyss** is a simple yet secure password manager built with Python. This project for me to learn programming, I have plans to improve it with a graphical interface using Tkinter.
 
-# Goals
-I have very few goals but here is a few I hope to accomplish
-- Learn python
-- Add a gui to Pyss
-- Improve Security
-- More ease of use
+## Features
+- Securely store and retrieve passwords
+- Copy passwords to clipboard using `pyperclip` (no need to expose passwords)
+- Encryption implemented with the `cryptography` library
+
+## Goals
+- **Python Mastery**: Improve my programming with this project.
+- **GUI**: Currently this project is a command-line program in the future I will add a GUI with tkinter.
+- **Improve Security**: As the name as "Improve Secruity"
+- **Improve Usability**: Make Pyss more user-friendly.
+
+## Dependencies
+- `cryptography` (for encryption)
+- `pyperclip` (for clipboard management)
+
+Feel free to contribute or share any tips that could help me on this learning journey! :)
