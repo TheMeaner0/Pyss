@@ -4,3 +4,10 @@ This is a Python project I'm working on to learn programming. Pyss is a command-
 # Dependencies
 - Cryptography
 - Pyperclip
+
+# Goals
+I have very few goals but here is a few I hope to accomplish
+- Learn python
+- Add a gui to Pyss
+- Improve Security
+- More ease of use
