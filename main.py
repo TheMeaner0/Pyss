@@ -277,7 +277,7 @@ def copy_logins():
 def change_masterpass():
     masterlogin(0, 1)
     if conti == 1:
-        newmaster = getpass.getpass(f"New {RED}Masterpassword:{REST} ")
+        newmaster = getpass.getpass(f"New {RED}Masterpassword:{RESET} ")
         while len(newmaster) < 8:
             clear()
             newmaster = getpass.getpass(f"New Masterpassword was to short make it longer\n{RED}New Masterpassword{RESET}: ")
