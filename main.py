@@ -83,7 +83,6 @@ def masterlogin(masterlogchoice, special):
         contents = masterfile.read()
     decryptedmaster = mastercipher.decrypt(contents).decode('utf-8')
     if decryptedmaster == hashedstring:
-        print("Login Passed")     
         if masterlogchoice == 1:
             run = 1
         else:
@@ -289,7 +288,7 @@ def change_masterpass():
         encrypt_hash = mastercipher.encrypt(stringbytes)
         with open('.masterpass', 'w') as masterfile:
             pass
-        with open('.mastes', 'wb') as masterfile:
+        with open('.masterpass', 'wb') as masterfile:
             masterfile.write(encrypt_hash)
         print("New Masterpassword set succesfully!")
         enter()
