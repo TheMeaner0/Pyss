@@ -10,7 +10,7 @@
 ## Goals
 - **Python Mastery**: Improve my programming with this project.
 - **GUI**: Currently this project is a command-line program in the future I will add a GUI with tkinter.
-- **Improve Security**: As the name as "Improve Secruity"
+- **Improve Security**: As the name as "Improve Secruity".
 - **Improve Usability**: Make Pyss more user-friendly.
 
 ## Dependencies
@@ -19,4 +19,4 @@
 
 Feel free to contribute or share any tips that could help me on this learning journey!
 
-Psst, this project might have "bad" code. Forgive me if it does, make a commit to help me with programming :)
+Psst, this project might have "bad" code. Forgive me if it does, make a commit to help me with programming. :)
