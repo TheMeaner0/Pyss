@@ -37,7 +37,7 @@ def getpasskey():
     passwordcipher = Fernet(passwordkey)
 
 def clear():
-    os.system('clear')
+    os.system('cls' if os.name == 'nt' else 'clear')
 clear()
 
 def enter():
