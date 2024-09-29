@@ -17,4 +17,6 @@
 - `cryptography` (for encryption)
 - `pyperclip` (for clipboard management)
 
-Feel free to contribute or share any tips that could help me on this learning journey! :)
+Feel free to contribute or share any tips that could help me on this learning journey!
+
+Psst, this project might have "bad" code. Forgive me if it does, make a commit to help me with programming :)
